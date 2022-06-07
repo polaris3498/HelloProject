@@ -16,7 +16,7 @@
 </head>
 <body>
 
-	<button id="btnKor">안녕하세요</button><br>
+	<button id="btnKor">안녕하요</button><br>
 	<button id="btnEng">Hello</button><br>
 	<button id="btnJpn">おはようございます</button><br>
 
